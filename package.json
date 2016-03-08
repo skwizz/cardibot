@@ -1,0 +1,19 @@
+{
+  "name": "cardibot",
+  "version": "1.0.0",
+  "description": "Le bot de Cardi",
+  "main": "lib/cardibot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexandrebensimon/cardibot.git"
+  },
+  "author": "abensimon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alexandrebensimon/cardibot/issues"
+  },
+  "homepage": "https://github.com/alexandrebensimon/cardibot#readme"
+}
