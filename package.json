@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/alexandrebensimon/cardibot/issues"
   },
-  "homepage": "https://github.com/alexandrebensimon/cardibot#readme"
+  "homepage": "https://github.com/alexandrebensimon/cardibot#readme",
+  "dependencies": {
+    "sqlite3": "^3.1.1"
+  }
 }
