@@ -1,6 +1,4 @@
-'use strict';
-
-var Cardibot = require('../lib/cardibot');
+var Cardibot = require("../lib/cardibot");
 
 var token = process.env.BOT_API_KEY;
 var dbPath = process.env.BOT_DB_PATH;
