@@ -1,5 +1,7 @@
 Pour lancer testbot en local :
 
+Linux/Mac :
 BOT_API_KEY=xoxb-25287018375-PzKdYn8WGyhNSKr8q1mwFSvA BOT_DB_PATH=postgres://vgwjdyfhosvotk:M4aEVwNNnZoEpv0kOmrsKDyVC_@ec2-107-21-101-67.compute-1.amazonaws.com:5432/d964jdtolvuq7m node bin/bot.js
 
+Windows : 
 set BOT_API_KEY=xoxb-25287018375-PzKdYn8WGyhNSKr8q1mwFSvA & set BOT_DB_PATH=postgres://vgwjdyfhosvotk:M4aEVwNNnZoEpv0kOmrsKDyVC_@ec2-107-21-101-67.compute-1.amazonaws.com:5432/d964jdtolvuq7m & node bin/bot.js
