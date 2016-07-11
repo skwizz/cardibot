@@ -4,3 +4,4 @@
 .idea/vcs.xml
 .idea/libraries/cardibot_node_modules.xml
 .idea/workspace.xml
+/node_modules/
