@@ -1,26 +1,26 @@
 {
-  "name": "cardibot",
-  "version": "1.0.0",
-  "description": "Le bot de Cardi",
-  "main": "lib/cardibot.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/alexandrebensimon/cardibot.git"
-  },
-  "author": "abensimon",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/alexandrebensimon/cardibot/issues"
-  },
-  "homepage": "https://github.com/alexandrebensimon/cardibot#readme",
-  "dependencies": {
-    "cron": "^1.1.0",
-    "pg": "4.5.1",
-    "slackbots": "^0.5.1",
-    "sqlite3": "^3.1.1",
-    "xmlhttprequest": "^1.8.0"
-  }
+    "name": "cardibot",
+    "version": "1.0.0",
+    "description": "Le bot de Cardi",
+    "main": "lib/cardibot.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/alexandrebensimon/cardibot.git"
+    },
+    "author": "abensimon",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/alexandrebensimon/cardibot/issues"
+    },
+    "homepage": "https://github.com/alexandrebensimon/cardibot#readme",
+    "dependencies": {
+        "cron": "^1.1.0",
+        "pg": "4.5.1",
+        "slackbots": "^0.5.1",
+        "sqlite3": "^3.1.1",
+        "xmlhttprequest": "^1.8.0"
+    }
 }
