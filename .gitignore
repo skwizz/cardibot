@@ -1,6 +1,2 @@
-.idea/dictionaries/abensimon.xml
-.idea/jsLibraryMappings.xml
-.idea/slackbot.iml
-.idea/vcs.xml
-.idea/libraries/cardibot_node_modules.xml
-.idea/workspace.xml
+node_modules
+.gitignore

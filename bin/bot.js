@@ -5,9 +5,9 @@ var dbPath = process.env.BOT_DB_PATH;
 var name = process.env.BOT_NAME;
 
 var cardibot = new Cardibot({
-    token: token,
-    dbPath: dbPath,
-    name: name
+  token: token,
+  dbPath: dbPath,
+  name: name
 });
 
 cardibot.run();
